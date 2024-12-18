@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 82a881f6f4914e741b27afc9da2f4467
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - enemigo1: {instanceID: 0}
+  - enemigo2: {instanceID: 0}
+  - enemigo3: {instanceID: 0}
+  - enemigo4: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
